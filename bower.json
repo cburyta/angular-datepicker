@@ -2,5 +2,12 @@
   "name": "angular-native-datepicker",
   "dependencies": {
     "angular": "latest"
-  }
+  },
+  "main": "build/angular-datepicker.js",
+  "ignore": [
+    "**/.*",
+    "CONTRIBUTING.md",
+    "Gruntfile.js",
+    "package.json"
+  ]
 }
